@@ -13,3 +13,6 @@ Pour tester le status -s (status --short)
 
 #####test 5
 Test difference git status / git diff
+
+######test 6
+test git commit -a
