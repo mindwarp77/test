@@ -7,3 +7,6 @@ Du nouveau texte
 
 ###test 3
 Du nouveau texte pour tester la modification d'un fichier indéxé
+
+####test 4 
+Pour tester le status -s (status --short)
