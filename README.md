@@ -16,3 +16,6 @@ Test difference git status / git diff
 
 ######test 6
 test git commit -a
+
+#######test 7
+test git rm <"file">
